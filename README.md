@@ -50,5 +50,5 @@ gcc -fPIC -g reflective_loader.c -o reflective_loader
 
 ## References
 
-https://github.com/infosecguerrilla/ReflectiveSOInjection
-https://github.com/gem5/m5threads/blob/master/pthread.c
+- https://github.com/infosecguerrilla/ReflectiveSOInjection
+- https://github.com/gem5/m5threads/blob/master/pthread.c
